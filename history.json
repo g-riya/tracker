@@ -1,22 +1,29 @@
 {
     "call ham": [
-        "2023-11-07"
+        "2023-11-07",
+        "2023-11-27"
     ],
     "wash hair": [
         "2023-11-02",
         "2023-11-05",
         "2023-11-09",
-        "2023-11-13"
+        "2023-11-13",
+        "2023-11-27"
     ],
-    "wash sheets": [],
+    "wash sheets": [
+        "2023-11-28"
+    ],
     "call mom": [
         "2023-11-03",
         "2023-11-06",
         "2023-11-10",
-        "2023-11-13"
+        "2023-11-13",
+        "2023-11-28"
     ],
     "call kayleigh": [],
-    "call bridget": [],
+    "call bridget": [
+        "2023-11-27"
+    ],
     "call sara bali": [],
     "rishab dinner": [
         "2023-11-15"
@@ -29,17 +36,34 @@
         "2023-11-09"
     ],
     "dinner sarah/kelly": [
-        "2023-11-10"
+        "2023-11-10",
+        "2023-11-28"
     ],
     "monthly goals and morals": [
-        "2023-11-07"
+        "2023-11-07",
+        "2023-11-28"
     ],
     "call marina": [],
-    "text owen": [],
+    "text owen": [
+        "2023-11-27"
+    ],
     "shave legs": [],
-    "scrub feet": [],
-    "shave armpits": [],
-    "twease brows": [],
+    "scrub feet": [
+        "2023-11-28"
+    ],
+    "shave armpits": [
+        "2023-11-27"
+    ],
+    "twease brows": [
+        "2023-11-28"
+    ],
     "shave mustache": [],
-    "nail maintain": []
+    "nail maintain": [
+        "2023-11-28"
+    ],
+    "gynecologist": [],
+    "physical exam (doctor)": [],
+    "botox": [],
+    "eye doctor": [],
+    "dental checkup": []
 }
