@@ -23,5 +23,7 @@
     "physical exam (doctor)": 365,
     "botox": 180,
     "eye doctor": 365,
-    "dental checkup": 180
+    "dental checkup": 180,
+    "covid shot": 365,
+    "flu shot": 365
 }

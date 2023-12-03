@@ -19,16 +19,21 @@ with open(history, 'r') as file:
 with open(birthdays, 'r') as file:
     birthdays_data = json.load(file)
 
+
 def save_data(data, file_path):
     with open(file_path, 'w') as file:
         json.dump(data, file, indent=4)
 
-today = datetime.today()
+
+today = datetime.today()  # Include the time information
+if today.hour < 4:
+    today -= timedelta(days=1)
 original_date = datetime.strptime(loaded_dict["date"], '%Y-%m-%d')
 
 
 while True:
-    command = input("Would you like to LOG, see what TODO, ADD, HISTORY or EXIT?: ")
+    command = input(
+        "Would you like to LOG, see what TODO, ADD, HISTORY or EXIT?: ")
     if command == "EXIT":
         exit()
     elif command == "LOG":
@@ -43,20 +48,24 @@ while True:
         days_since = (today-original_date).days
         for key in loaded_dict.keys():
             if key == "date":
-                loaded_dict[key] =  date.today().strftime("%Y-%m-%d")
+                loaded_dict[key] = date.today().strftime("%Y-%m-%d")
             else:
                 loaded_dict[key] -= days_since
                 if loaded_dict[key] <= 0:
                     print(f"{key}")
         with open(to_do, 'w') as file:
             json.dump(loaded_dict, file, indent=4)
-        day = loaded_dict["date"][-5:]
-        day_15 = (date.today() + timedelta(days=15)).strftime("%m-%d")
         for name, cur_bday in birthdays_data.items():
-            if cur_bday == day:
-                print(f"its {name}'s birthday!")
-            if cur_bday == day_15:
-                print(f"its {name}'s birthday in 15 days!")
+            bday_date = date(date.today().year, int(
+                cur_bday[:2]), int(cur_bday[3:]))
+            days_until_bday = (bday_date - date.today()).days
+
+            if 0 <= days_until_bday <= 15:
+                if days_until_bday == 0:
+                    print(f"It's {name}'s birthday today!")
+                else:
+                    print(f"It's {name}'s birthday in {days_until_bday} days!")
+
     elif command == "ADD":
         user_input = input("Enter prompt: ").lower()
         num_days = int(input("Enter num of days: "))
