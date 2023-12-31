@@ -56,7 +56,7 @@ def todo():
     for key, value in master_dict.items():
         if key != "date" and master_dict[key]["base_value"] != "inactive":
             category = value.get("category", "Other")
-            if category == "":  # Set category to 'Other' if it's empty
+            if category == "":
                 category = "Other"
             if category not in tasks_by_category:
                 tasks_by_category[category] = []
@@ -91,7 +91,7 @@ def todo():
 def add():
     user_input = input("Enter prompt: ").lower()
     num_days = int(input("Enter num of days: "))
-    category = int(input("Enter category: "))
+    category = input("Enter category: ")
     if user_input not in master_dict:
         master_dict[user_input] = {
             "current_value": num_days,

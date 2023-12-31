@@ -6,7 +6,7 @@
         "history": [],
         "category": "Hygiene"
     },
-    "physical exam (doctor)": {
+    "physical exam": {
         "current_value": 333,
         "base_value": 365,
         "history": [],
@@ -44,7 +44,7 @@
     },
     "dinner sarah/kelly": {
         "current_value": 7,
-        "base_value": 7,
+        "base_value": "inactive",
         "history": [
             "2023-11-10",
             "2023-11-28",
@@ -74,7 +74,7 @@
         ],
         "category": ""
     },
-    "gynecologist": {
+    "gynecologist (pap smear, std test)": {
         "current_value": 333,
         "base_value": 365,
         "history": [],
@@ -148,7 +148,7 @@
         "history": [],
         "category": "Friends/Family"
     },
-    "botox": {
+    "botox shot": {
         "current_value": 148,
         "base_value": 180,
         "history": [],
@@ -200,7 +200,7 @@
         ],
         "category": "Friends/Family"
     },
-    "eye doctor": {
+    "vision test": {
         "current_value": 333,
         "base_value": 365,
         "history": [],
@@ -264,6 +264,72 @@
             "2023-11-29",
             "2023-12-19"
         ],
+        "category": "Friends/Family"
+    },
+    "skin screening": {
+        "current_value": 365,
+        "base_value": 365,
+        "history": [],
+        "category": "Doctor"
+    },
+    "dental cleaning": {
+        "current_value": 180,
+        "base_value": 180,
+        "history": [],
+        "category": "Doctor"
+    },
+    "call/text rishab": {
+        "current_value": 14,
+        "base_value": 14,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "call sarah": {
+        "current_value": 14,
+        "base_value": 14,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "call kelly": {
+        "current_value": 14,
+        "base_value": 14,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "call caroline": {
+        "current_value": 14,
+        "base_value": 14,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "call shriya": {
+        "current_value": 30,
+        "base_value": 30,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "call tam": {
+        "current_value": 30,
+        "base_value": 30,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "call zara": {
+        "current_value": 30,
+        "base_value": 30,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "call jason": {
+        "current_value": 45,
+        "base_value": 45,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "text alush": {
+        "current_value": 30,
+        "base_value": 30,
+        "history": [],
         "category": "Friends/Family"
     }
 }
