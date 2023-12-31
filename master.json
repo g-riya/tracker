@@ -1,0 +1,269 @@
+{
+    "date": "2023-12-31",
+    "dental checkup": {
+        "current_value": 148,
+        "base_value": 180,
+        "history": [],
+        "category": "Hygiene"
+    },
+    "physical exam (doctor)": {
+        "current_value": 333,
+        "base_value": 365,
+        "history": [],
+        "category": "Doctor"
+    },
+    "text owen": {
+        "current_value": -4,
+        "base_value": 14,
+        "history": [
+            "2023-11-27",
+            "2023-12-14"
+        ],
+        "category": "Friends/Family"
+    },
+    "call anika": {
+        "current_value": 12,
+        "base_value": 14,
+        "history": [
+            "2023-11-05",
+            "2023-12-13",
+            "2023-12-29"
+        ],
+        "category": "Friends/Family"
+    },
+    "shave mustache": {
+        "current_value": -3,
+        "base_value": 3,
+        "history": [
+            "2023-12-02",
+            "2023-12-10",
+            "2023-12-18",
+            "2023-12-25"
+        ],
+        "category": "Hygiene"
+    },
+    "dinner sarah/kelly": {
+        "current_value": 7,
+        "base_value": 7,
+        "history": [
+            "2023-11-10",
+            "2023-11-28",
+            "2023-12-08",
+            "2023-12-23",
+            "2023-12-31"
+        ],
+        "category": "Friends/Family"
+    },
+    "shave legs": {
+        "current_value": -4,
+        "base_value": 7,
+        "history": [
+            "2023-11-30",
+            "2023-12-13",
+            "2023-12-20"
+        ],
+        "category": "Hygiene"
+    },
+    "workout": {
+        "current_value": -10,
+        "base_value": 3,
+        "history": [
+            "2023-11-04",
+            "2023-11-09",
+            "2023-12-19"
+        ],
+        "category": ""
+    },
+    "gynecologist": {
+        "current_value": 333,
+        "base_value": 365,
+        "history": [],
+        "category": "Doctor"
+    },
+    "shave armpits": {
+        "current_value": -5,
+        "base_value": 3,
+        "history": [
+            "2023-11-27",
+            "2023-11-30",
+            "2023-12-13",
+            "2023-12-20",
+            "2023-12-23"
+        ],
+        "category": "Hygiene"
+    },
+    "flu shot": {
+        "current_value": 334,
+        "base_value": 365,
+        "history": [],
+        "category": "Doctor"
+    },
+    "twease brows": {
+        "current_value": 1,
+        "base_value": 7,
+        "history": [
+            "2023-11-28",
+            "2023-12-08",
+            "2023-12-19",
+            "2023-12-25"
+        ],
+        "category": "Hygiene"
+    },
+    "covid shot": {
+        "current_value": 334,
+        "base_value": 365,
+        "history": [],
+        "category": "Doctor"
+    },
+    "wash hair": {
+        "current_value": 1,
+        "base_value": 3,
+        "history": [
+            "2023-11-02",
+            "2023-11-05",
+            "2023-11-09",
+            "2023-11-13",
+            "2023-11-27",
+            "2023-12-03",
+            "2023-12-10",
+            "2023-12-16",
+            "2023-12-20",
+            "2023-12-24",
+            "2023-12-29"
+        ],
+        "category": "Hygiene"
+    },
+    "nail maintain": {
+        "current_value": 7,
+        "base_value": 14,
+        "history": [
+            "2023-11-28",
+            "2023-12-24"
+        ],
+        "category": "Hygiene"
+    },
+    "call sara bali": {
+        "current_value": -29,
+        "base_value": 30,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "botox": {
+        "current_value": 148,
+        "base_value": 180,
+        "history": [],
+        "category": "Doctor"
+    },
+    "call kayleigh": {
+        "current_value": 2,
+        "base_value": 30,
+        "history": [
+            "2023-12-02"
+        ],
+        "category": "Friends/Family"
+    },
+    "call mom": {
+        "current_value": 1,
+        "base_value": 3,
+        "history": [
+            "2023-11-03",
+            "2023-11-06",
+            "2023-11-10",
+            "2023-11-13",
+            "2023-11-28",
+            "2023-12-02",
+            "2023-12-08",
+            "2023-12-12",
+            "2023-12-16",
+            "2023-12-19",
+            "2023-12-21",
+            "2023-12-25",
+            "2023-12-29"
+        ],
+        "category": "Friends/Family"
+    },
+    "monthly goals and morals": {
+        "current_value": -11,
+        "base_value": 7,
+        "history": [
+            "2023-11-07",
+            "2023-11-28",
+            "2023-12-14"
+        ],
+        "category": ""
+    },
+    "call marina": {
+        "current_value": 2,
+        "base_value": 30,
+        "history": [
+            "2023-12-02"
+        ],
+        "category": "Friends/Family"
+    },
+    "eye doctor": {
+        "current_value": 333,
+        "base_value": 365,
+        "history": [],
+        "category": "Doctor"
+    },
+    "call ham": {
+        "current_value": -4,
+        "base_value": 14,
+        "history": [
+            "2023-11-07",
+            "2023-11-27",
+            "2023-12-14"
+        ],
+        "category": "Friends/Family"
+    },
+    "call vibha": {
+        "current_value": 50,
+        "base_value": 50,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "text adam": {
+        "current_value": 52,
+        "base_value": 60,
+        "history": [],
+        "category": "Friends/Family"
+    },
+    "call bridget": {
+        "current_value": 6,
+        "base_value": 14,
+        "history": [
+            "2023-11-27",
+            "2023-12-23"
+        ],
+        "category": "Friends/Family"
+    },
+    "wash sheets": {
+        "current_value": 11,
+        "base_value": 14,
+        "history": [
+            "2023-11-28",
+            "2023-12-15",
+            "2023-12-28"
+        ],
+        "category": "Hygiene"
+    },
+    "scrub feet": {
+        "current_value": -16,
+        "base_value": 7,
+        "history": [
+            "2023-11-28",
+            "2023-12-08"
+        ],
+        "category": "Hygiene"
+    },
+    "rishab dinner": {
+        "current_value": -5,
+        "base_value": "inactive",
+        "history": [
+            "2023-11-15",
+            "2023-11-29",
+            "2023-12-19"
+        ],
+        "category": "Friends/Family"
+    }
+}
