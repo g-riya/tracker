@@ -1,44 +1,54 @@
 {
-    "date": "2023-12-31",
+    "date": "2024-02-12",
     "dental checkup": {
-        "current_value": 148,
+        "current_value": 46,
         "base_value": 180,
         "history": [],
         "category": "Hygiene"
     },
     "physical exam": {
-        "current_value": 333,
+        "current_value": 231,
         "base_value": 365,
         "history": [],
         "category": "Doctor"
     },
     "text owen": {
-        "current_value": -4,
+        "current_value": -7,
         "base_value": 14,
         "history": [
             "2023-11-27",
-            "2023-12-14"
+            "2023-12-14",
+            "2024-01-23",
+            "2024-01-24",
+            "2024-01-24",
+            "2024-01-29"
         ],
         "category": "Friends/Family"
     },
     "call anika": {
-        "current_value": 12,
+        "current_value": -75,
         "base_value": 14,
         "history": [
             "2023-11-05",
             "2023-12-13",
-            "2023-12-29"
+            "2023-12-29",
+            "2024-01-12"
         ],
         "category": "Friends/Family"
     },
     "shave mustache": {
-        "current_value": -3,
+        "current_value": -2,
         "base_value": 3,
         "history": [
             "2023-12-02",
             "2023-12-10",
             "2023-12-18",
-            "2023-12-25"
+            "2023-12-25",
+            "2024-01-06",
+            "2024-01-16",
+            "2024-01-25",
+            "2024-02-07",
+            "2024-02-07"
         ],
         "category": "Hygiene"
     },
@@ -55,8 +65,8 @@
         "category": "Friends/Family"
     },
     "shave legs": {
-        "current_value": -4,
-        "base_value": 7,
+        "current_value": -11,
+        "base_value": "inactive",
         "history": [
             "2023-11-30",
             "2023-12-13",
@@ -65,58 +75,74 @@
         "category": "Hygiene"
     },
     "workout": {
-        "current_value": -10,
+        "current_value": -15,
         "base_value": 3,
         "history": [
             "2023-11-04",
             "2023-11-09",
-            "2023-12-19"
+            "2023-12-19",
+            "2024-01-15",
+            "2024-01-18",
+            "2024-01-25",
+            "2024-02-01"
         ],
         "category": ""
     },
     "gynecologist (pap smear, std test)": {
-        "current_value": 333,
+        "current_value": 231,
         "base_value": 365,
         "history": [],
         "category": "Doctor"
     },
     "shave armpits": {
-        "current_value": -5,
+        "current_value": -2,
         "base_value": 3,
         "history": [
             "2023-11-27",
             "2023-11-30",
             "2023-12-13",
             "2023-12-20",
-            "2023-12-23"
+            "2023-12-23",
+            "2024-01-06",
+            "2024-01-20",
+            "2024-01-25",
+            "2024-01-27",
+            "2024-01-30",
+            "2024-02-07",
+            "2024-02-07"
         ],
         "category": "Hygiene"
     },
     "flu shot": {
-        "current_value": 334,
+        "current_value": 232,
         "base_value": 365,
         "history": [],
         "category": "Doctor"
     },
     "twease brows": {
-        "current_value": 1,
+        "current_value": 3,
         "base_value": 7,
         "history": [
             "2023-11-28",
             "2023-12-08",
             "2023-12-19",
-            "2023-12-25"
+            "2023-12-25",
+            "2024-01-05",
+            "2024-01-15",
+            "2024-01-24",
+            "2024-01-24",
+            "2024-02-08"
         ],
         "category": "Hygiene"
     },
     "covid shot": {
-        "current_value": 334,
+        "current_value": 232,
         "base_value": 365,
         "history": [],
         "category": "Doctor"
     },
     "wash hair": {
-        "current_value": 1,
+        "current_value": -2,
         "base_value": 3,
         "history": [
             "2023-11-02",
@@ -129,13 +155,21 @@
             "2023-12-16",
             "2023-12-20",
             "2023-12-24",
-            "2023-12-29"
+            "2023-12-29",
+            "2024-01-02",
+            "2024-01-05",
+            "2024-01-15",
+            "2024-01-24",
+            "2024-01-28",
+            "2024-02-01",
+            "2024-02-07",
+            "2024-02-07"
         ],
         "category": "Hygiene"
     },
     "nail maintain": {
-        "current_value": 7,
-        "base_value": 14,
+        "current_value": -70,
+        "base_value": "inactive",
         "history": [
             "2023-11-28",
             "2023-12-24"
@@ -143,27 +177,31 @@
         "category": "Hygiene"
     },
     "call sara bali": {
-        "current_value": -29,
+        "current_value": 10,
         "base_value": 30,
-        "history": [],
+        "history": [
+            "2024-01-30"
+        ],
         "category": "Friends/Family"
     },
     "botox shot": {
-        "current_value": 148,
+        "current_value": 46,
         "base_value": 180,
         "history": [],
         "category": "Doctor"
     },
     "call kayleigh": {
-        "current_value": 2,
+        "current_value": -21,
         "base_value": 30,
         "history": [
-            "2023-12-02"
+            "2023-12-02",
+            "2024-01-18",
+            "2024-01-19"
         ],
         "category": "Friends/Family"
     },
     "call mom": {
-        "current_value": 1,
+        "current_value": -19,
         "base_value": 3,
         "history": [
             "2023-11-03",
@@ -178,7 +216,15 @@
             "2023-12-19",
             "2023-12-21",
             "2023-12-25",
-            "2023-12-29"
+            "2023-12-29",
+            "2024-01-01",
+            "2024-01-03",
+            "2024-01-05",
+            "2024-01-14",
+            "2024-01-19",
+            "2024-01-21",
+            "2024-01-24",
+            "2024-01-28"
         ],
         "category": "Friends/Family"
     },
@@ -188,68 +234,80 @@
         "history": [
             "2023-11-07",
             "2023-11-28",
-            "2023-12-14"
+            "2023-12-14",
+            "2024-01-01",
+            "2024-01-15",
+            "2024-01-24",
+            "2024-02-01"
         ],
         "category": ""
     },
     "call marina": {
-        "current_value": 2,
+        "current_value": -89,
         "base_value": 30,
         "history": [
-            "2023-12-02"
+            "2023-12-02",
+            "2023-12-13"
         ],
         "category": "Friends/Family"
     },
     "vision test": {
-        "current_value": 333,
+        "current_value": 231,
         "base_value": 365,
         "history": [],
         "category": "Doctor"
     },
     "call ham": {
-        "current_value": -4,
+        "current_value": -62,
         "base_value": 14,
         "history": [
             "2023-11-07",
             "2023-11-27",
-            "2023-12-14"
+            "2023-12-14",
+            "2024-01-04",
+            "2024-01-18"
         ],
         "category": "Friends/Family"
     },
     "call vibha": {
-        "current_value": 50,
+        "current_value": -52,
         "base_value": 50,
         "history": [],
         "category": "Friends/Family"
     },
     "text adam": {
-        "current_value": 52,
+        "current_value": 20,
         "base_value": 60,
-        "history": [],
+        "history": [
+            "2024-01-24"
+        ],
         "category": "Friends/Family"
     },
     "call bridget": {
-        "current_value": 6,
+        "current_value": -70,
         "base_value": 14,
         "history": [
             "2023-11-27",
-            "2023-12-23"
+            "2023-12-23",
+            "2024-01-11"
         ],
         "category": "Friends/Family"
     },
     "wash sheets": {
-        "current_value": 11,
+        "current_value": 3,
         "base_value": 14,
         "history": [
             "2023-11-28",
             "2023-12-15",
-            "2023-12-28"
+            "2023-12-28",
+            "2024-01-13",
+            "2024-02-08"
         ],
         "category": "Hygiene"
     },
     "scrub feet": {
-        "current_value": -16,
-        "base_value": 7,
+        "current_value": -93,
+        "base_value": "inactive",
         "history": [
             "2023-11-28",
             "2023-12-08"
@@ -267,68 +325,95 @@
         "category": "Friends/Family"
     },
     "skin screening": {
-        "current_value": 365,
+        "current_value": 263,
         "base_value": 365,
         "history": [],
         "category": "Doctor"
     },
     "dental cleaning": {
-        "current_value": 180,
+        "current_value": 78,
         "base_value": 180,
         "history": [],
         "category": "Doctor"
     },
     "call/text rishab": {
-        "current_value": 14,
+        "current_value": -5,
         "base_value": 14,
-        "history": [],
+        "history": [
+            "2024-01-19",
+            "2024-01-20",
+            "2024-01-31"
+        ],
         "category": "Friends/Family"
     },
     "call sarah": {
-        "current_value": 14,
+        "current_value": -9,
         "base_value": 14,
-        "history": [],
+        "history": [
+            "2024-01-12",
+            "2024-01-27"
+        ],
         "category": "Friends/Family"
     },
     "call kelly": {
-        "current_value": 14,
+        "current_value": -88,
         "base_value": 14,
         "history": [],
         "category": "Friends/Family"
     },
     "call caroline": {
-        "current_value": 14,
+        "current_value": -5,
         "base_value": 14,
-        "history": [],
+        "history": [
+            "2024-01-12",
+            "2024-01-21",
+            "2024-01-20",
+            "2024-01-31"
+        ],
         "category": "Friends/Family"
     },
     "call shriya": {
-        "current_value": 30,
+        "current_value": -7,
         "base_value": 30,
-        "history": [],
+        "history": [
+            "2024-01-15",
+            "2024-01-24"
+        ],
         "category": "Friends/Family"
     },
     "call tam": {
-        "current_value": 30,
+        "current_value": 8,
         "base_value": 30,
-        "history": [],
+        "history": [
+            "2024-01-15",
+            "2024-01-24",
+            "2024-01-28"
+        ],
         "category": "Friends/Family"
     },
     "call zara": {
-        "current_value": 30,
+        "current_value": -72,
         "base_value": 30,
         "history": [],
         "category": "Friends/Family"
     },
     "call jason": {
-        "current_value": 45,
+        "current_value": -57,
         "base_value": 45,
         "history": [],
         "category": "Friends/Family"
     },
     "text alush": {
-        "current_value": 30,
+        "current_value": 7,
         "base_value": 30,
+        "history": [
+            "2024-01-27"
+        ],
+        "category": "Friends/Family"
+    },
+    "call grandparents": {
+        "current_value": -62,
+        "base_value": 40,
         "history": [],
         "category": "Friends/Family"
     }

@@ -4,10 +4,8 @@ import json
 birthdays = 'birthdays.json'
 master = 'master.json'
 
-
 with open(master, 'r') as file:
     master_dict = json.load(file)
-
 
 with open(birthdays, 'r') as file:
     birthdays_data = json.load(file)
@@ -15,7 +13,6 @@ with open(birthdays, 'r') as file:
 def save_data(data, file_path):
     with open(file_path, 'w') as file:
         json.dump(data, file, indent=4)
-
 
 today = datetime.today()  # Include the time information
 if today.hour < 4:
@@ -47,7 +44,6 @@ def retro():
 
         user_input = input("Enter prompt or EXIT to exit: ").lower()
 
-
 def todo():
     days_since = (today-original_date).days
     master_dict["date"] = date.today().strftime("%Y-%m-%d")
@@ -58,10 +54,10 @@ def todo():
             category = value.get("category", "Other")
             if category == "":
                 category = "Other"
-            if category not in tasks_by_category:
-                tasks_by_category[category] = []
             master_dict[key]["current_value"] -= days_since
             if master_dict[key]["current_value"] <= 0:
+                if category not in tasks_by_category:
+                    tasks_by_category[category] = []
                 tasks_by_category[category].append(key)
 
     for category, tasks in tasks_by_category.items():
@@ -130,3 +126,5 @@ while True:
         todo()
     elif command == "add":
         add()
+    else:
+        print("Not a valid command")
